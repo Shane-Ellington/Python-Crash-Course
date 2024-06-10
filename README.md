@@ -8,3 +8,5 @@ This book has been great so far, after each new concept there are prompts for aw
 3. tickets.py. I have messed around with while loops in other programming before, and have used try: and except: before, but it was interesting to see how it worked in my own code.
 
 4. vacation.py. In this problem, I was tasked with making a poll again, but this time actually adding people to a dictionary via a while loop. I could see this being useful in future automation. 
+
+5. restaurant.py I have messed around with classes foor some of my other small projects, and as I worked through things on BHP; however this simple prompt asked me to build a class, define a few methods, and put them all together. I actually caught on to this one quit easily as the concept is more straight forward than others. My next problem will be similar, but work with inheratence and child objects. To me this seems to start getting into the actual "programing" portion, and I'm excited to take my time and get a deeper understanding.  
